@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewPagerSample</string>
+    <string name="first">گروه اول</string>
+    <string name="second">گروه دوم</string>
+</resources>
